@@ -43,7 +43,6 @@ The Random Forest model performed best overall and is recommended for this class
 
 ## 📘 Thesis Context
 
-This project is part of my MSc Data Analytics thesis, titled *"Evaluating Machine Learning Algorithms for Credit Scoring: Accuracy, Bias Mitigation, and Practical Trade-offs"*  
-It includes secondary research, preprocessing strategies, and model benchmarking.
+This project is part of my MSc Data Analytics thesis, titled *"Evaluating Machine Learning Algorithms for Credit Scoring: Accuracy, Bias Mitigation, and Practical Trade-offs"*.It includes secondary research, preprocessing strategies, and model benchmarking.
 
 
